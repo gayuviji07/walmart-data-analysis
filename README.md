@@ -1,1 +1,1 @@
-# walmart Data Analysis: using SQL+Python project
+# Walmart Data Analysis: Using SQL+Python project
