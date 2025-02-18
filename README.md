@@ -17,4 +17,7 @@
        Place the downloaded kaggle.json file in your local .kaggle folder.
        Use the command kaggle datasets download -d <dataset-path> to pull datasets directly into your project
 
+### dataset 
+    <https://github.com/gayuviji07/walmart-data-analysis/blob/main/Walmart.csv>
+
         
