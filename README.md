@@ -12,7 +12,7 @@
         Goal: Create a structured workspace within VS Code and organize project folders for smooth development and data handling.
 
 ### . Set Up Kaggle API
-       API Setup: Obtain your Kaggle API token from Kaggle by navigating to your profile settings and downloading the JSON file.
+       API Setup: Obtain your Kaggle API token from <a href="https://www.kaggle.com/>kaggle</a> by navigating to your profile settings and downloading the JSON file.
        Configure Kaggle:
        Place the downloaded kaggle.json file in your local .kaggle folder.
        Use the command kaggle datasets download -d <dataset-path> to pull datasets directly into your project
